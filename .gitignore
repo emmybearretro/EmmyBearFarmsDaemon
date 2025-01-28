@@ -122,3 +122,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+ams.json
+
+printdaemon.py
+
+test.3mf
+
+test.json
+
+test.py
+
+test1.py
+
+tmp
+
+zippity.py
+
+zippity2.py
